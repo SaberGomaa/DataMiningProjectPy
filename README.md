@@ -1,1 +1,1 @@
-# DataMiningProjectPy
+# DataMiningProject
